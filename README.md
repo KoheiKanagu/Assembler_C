@@ -3,6 +3,7 @@
 * 変換されたバイナリは、.mifをテキストで開いてコピペすると便利
 * レジュメの機械命令語16bitを順守
 * 某大学3回生の某実験のお役立ちツール
+* Objective-Cバージョンはこちら[Assembler_Objective-C](https://github.com/KoheiKanagu/Assembler_Objective-C)
 
 
 ##注意点
